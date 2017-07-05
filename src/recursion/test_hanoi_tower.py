@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from src import hanoi_tower
+from . import hanoi_tower
 
 
 def test_move_tower():
