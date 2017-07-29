@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from src import count_prime
+from . import count_prime
 
 
 def test_generate_primes():
